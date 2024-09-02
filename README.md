@@ -2,15 +2,6 @@
 
 This repository contains solutions for both parts of the challenge: creating test cases for a cashier system and testing an API using Postman.
 
-## Table of Contents
-
-- [Part 1: Test Case Creation](#part-1-test-case-creation)
-- [Part 2: API Test](#part-2-api-test)
-- [Setup and Installation](#setup-and-installation)
-- [Additional Notes](#additional-notes)
-
----
-
 ## Part 1: Test Case Creation
 
 ### Cashier System
