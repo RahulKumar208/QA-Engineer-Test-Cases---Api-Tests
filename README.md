@@ -1,4 +1,4 @@
-# Kantox QA Engineer Challenge
+# QA Engineer Challenge
 
 This repository contains solutions for both parts of the challenge: creating test cases for a cashier system and testing an API using Postman.
 
